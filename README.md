@@ -55,12 +55,15 @@ Caso você queira ver todo o processo e as ferramentas que utilizei (Pandas, SQL
 #### E por final, fui para o Power BI para criar um último gráfico e criei alguns DAX essenciais para o projeto
 ![Screenshot 12](assets/dax.png)
 ![Screenshot 13](assets/power_bi.png)
+</details>
 
 ## 📂 Download dos Arquivos
 
-**Dashboard Power BI** | Arquivo .pbix com as análises e DAX | [Baixar](files/power_bi.pbix) |
-**Planilha Final Excel** | Dados tratados e Tabelas Dinâmicas | [Baixar](files/venda-excel-projeto.xlsx) |
-**Bases de Dados 1** | Arquivo order sem nenhum tratamento | [Baixar](files/orders_big.xlsx) |
-**Bases de Dados 2** | Arquivo customers sem nenhum tratamento | [Baixar](files/customers_big.xlsx) |
+ - **Dashboard Power BI** | Arquivo .pbix com as análises e DAX | [Baixar](files/power_bi.pbix) | 
 
-</details>
+- **Planilha Final Excel** | Dados tratados e Tabelas Dinâmicas | [Baixar](files/venda-excel-projeto.xlsx) |
+
+- **Bases de Dados 1** | Arquivo order sem nenhum tratamento | [Baixar](files/orders_big.xlsx) |
+
+- **Bases de Dados 2** | Arquivo customers sem nenhum tratamento | [Baixar](files/customers_big.xlsx) |
+
